@@ -1,0 +1,95 @@
+
+  #tt{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+  
+  }
+
+  #rn{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+  
+  }
+
+  #st{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+ 
+  }
+
+  img{
+    width: 400px;
+    height: 400px;
+  }
+
+  #at{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  #tl{
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  #run{
+    font-size: 17px;
+    font-weight: bold;
+  }
+
+  #show{
+    font-size: 17px;
+    font-weight: bold;
+  }
+
+  #tick{
+    font-size: 17px;
+    font-weight: bold;
+  }
+
+  #films{
+    float: left;
+    top: 0;
+    left: 0;
+    list-style: none;
+    width: 50%;
+    margin: 0 auto;
+
+  }
+
+  #dec{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  #films li{
+    margin-bottom: 10px;
+  }
+
+  body {
+   background-color: #778899;
+  }
+
+  #film {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  button{
+    background-color: #af4c4c;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 50px;
+  }
+
